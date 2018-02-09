@@ -5,7 +5,8 @@
 ### Design Recipe
 [Google Sheets Link](https://docs.google.com/spreadsheets/d/1TIiIfQg8w2_hRA66n8267t-sGfx8RfRxXCmOW2Pju3I/edit?usp=sharing)
 
-|   Design Recipe   |
+|   |Design Recipe|   |
+|STEPS|YOUR RESPONSES|REFLECTION|REFLECTION NOTES|
 |:-:|---|---|---|
 |   |   |   |   |
 |   |   |   |   |
