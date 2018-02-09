@@ -1,3 +1,7 @@
+// Paolo T. Inocencion
+// Coppin CS Coding Challenge #6: Hello World Android App
+// https://github.com/techinologic/PopularMoviesDemo/blob/master/device-2018-02-09-135031.png
+
 package com.example.paoloinocencion.popularmoviesdemo;
 
 import android.os.Bundle;
